@@ -1,5 +1,7 @@
 # OpenCV Tabanlı Yüz Tanıma ve Eşleştirme Sistemi (Face Recognition)
 
+[English](README.md) | [Türkçe](README_TR.md)
+
 OpenCV kütüphanesini ve Haar Cascade sınıflandırıcılarını kullanarak referans resimler ile test resimlerindeki yüzleri tespit eden, uzamsal boyut analizleri ile bunları eşleştiren hafif ve etkili bir yüz tanıma uygulamasıdır.
 
 ## 🚀 Özellikler

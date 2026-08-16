@@ -1,5 +1,7 @@
 # Real-Time Face Verification System (Face Recognition)
 
+[English](README.md) | [Türkçe](README_TR.md)
+
 A clean, high-performance OpenCV-based face detection and verification application that loads known profiles, detects faces using Haar Cascade classifiers, and checks test samples for matches.
 
 ## 🚀 Features
