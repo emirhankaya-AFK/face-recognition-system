@@ -51,3 +51,9 @@ A clean, high-performance OpenCV-based face detection and verification applicati
 ---
 
 *Designed and developed with 💙 by Emirhan Kaya.*
+
+## Türkçe
+See `README_TR.md` for the Turkish version.
+
+## Deutsch
+No German translation available in this repository.
